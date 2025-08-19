@@ -1,0 +1,53 @@
+export const lanches = [
+  {
+    id: 1,
+    nome: "Hamburguer",
+    ingredientes: ["Pão", "Carne"],
+    preco: 15.0,
+    image: "https://t3.ftcdn.net/jpg/05/38/20/62/360_F_538206263_J6N0PMo7117V6hXKRaWm70kebNuHsSnn.jpg",
+  },
+  {
+    id: 2,
+    nome: "X-Burguer",
+    ingredientes: ["Pão", "Carne", "Queijo"],
+    preco: 18.0,
+    image: "https://imagens.jotaja.com/produtos/337/8B87CBAB0339E4A33156EE117C2F0A68A495F28F425AA4A30308803C9116AA82.jpeg",
+  },
+  {
+    id: 3,
+    nome: "X-Salada",
+    ingredientes: ["Pão", "Carne", "Queijo", "Alface", "Tomate", "Cebola"],
+    preco: 20.0,
+    image: "https://t3.ftcdn.net/jpg/00/84/28/54/360_F_84285488_CaWrmiQ9xWJXFpCPMHD1r2ZYAzcESfkU.jpg",
+  },
+  {
+    id: 4,
+    nome: "X-Bacon",
+    ingredientes: ["Pão", "Carne", "Queijo", "Bacon", "Alface", "Tomate"],
+    preco: 25.0,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLoRfUphL69IhoqIVbdrM2OzZJiWrMJinAQ&s",
+  },
+  {
+    id: 5,
+    nome: "X-Egg",
+    ingredientes: ["Pão", "Carne", "Queijo", "Alface", "Tomate", "Ovo"],
+    preco: 30.0,
+    image: "https://harpersbazaar.uol.com.br/wp-content/uploads/2018/10/x-egg-sanduiche-01.jpg",
+  },
+  {
+    id: 6,
+    nome: "X-Tudo",
+    ingredientes: [
+      "Pão",
+      "Carne",
+      "Queijo",
+      "Bacon",
+      "Alface",
+      "Tomate",
+      "Ovo",
+      "Cebola",
+    ],
+    preco: 35.0,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlhndFcjm-nJLRQgt_bavSv1vbEQu3rTkPw&s",
+  },
+];
